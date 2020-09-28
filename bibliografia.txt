@@ -1,1 +1,2 @@
 Chacon, Scott, Ben Straub: Amazon.in: Kindle Store.
+ Loeliger, J. and McCullough, M. Version control with Git. O’Reilly
