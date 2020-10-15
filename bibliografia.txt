@@ -1,5 +1,8 @@
 Chacon, Scott, Ben Straub: Amazon.in: Kindle Store.
+Loeliger, J. and McCullough, M. Version control with Git. O’Reilly
 Ryan Hodson. Ry’s Git Tutorial. Smashwords (2014).
+Este es un cambio master 1
 sajksajkasjksajkskj
 SADKJDSAJKSDJKDSJKDS
 ESTE ES UN CAMBIO EN REGISTRO USUARIO
+ESTE ES UN CAMBIO EN LA DEVELOP
